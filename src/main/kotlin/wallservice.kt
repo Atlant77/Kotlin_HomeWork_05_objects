@@ -1,3 +1,5 @@
+import attachment.Attachment
+
 object WallService {
     var posts = emptyArray<Post>()
     private var uniqueId: Int = 1

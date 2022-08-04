@@ -23,7 +23,8 @@ class WallServiceTest {
             false,
             false,
             Donut(false, 3, "Holder", false, "all"),
-            1
+            1,
+            null
         )
 
         // act
@@ -54,7 +55,8 @@ class WallServiceTest {
             false,
             false,
             Donut(false, 3, "Holder", false, "all"),
-            1
+            1,
+            null
         ))
         service.add( Post(
             1, 4, 4, 2, 1613836906, "Post ID = 3...", 3, 45, true,
@@ -71,7 +73,8 @@ class WallServiceTest {
             false,
             false,
             Donut(false, 3, "Holder", false, "all"),
-            1
+            1,
+            null
         ))
         service.add(Post(
             1, 4, 4, 2, 1615836906, "Post ID = 2...", 3, 45, true,
@@ -88,7 +91,8 @@ class WallServiceTest {
             false,
             false,
             Donut(false, 3, "Holder", false, "all"),
-            1
+            1,
+            null
         ))
 
 
@@ -107,7 +111,8 @@ class WallServiceTest {
             false,
             false,
             Donut(false, 3, "Holder", false, "all"),
-            1
+            1,
+            null
         )
         // act
         val result = service.update(update)
@@ -137,7 +142,8 @@ class WallServiceTest {
             false,
             false,
             Donut(false, 3, "Holder", false, "all"),
-            1
+            1,
+            null
         ))
         service.add( Post(
             2, 4, 4, 2, 1613836906, "Post ID = 3...", 3, 45, true,
@@ -154,7 +160,8 @@ class WallServiceTest {
             false,
             false,
             Donut(false, 3, "Holder", false, "all"),
-            1
+            1,
+            null
         ))
         service.add(Post(
             1, 4, 4, 2, 1615836906, "Post ID = 2...", 3, 45, true,
@@ -171,7 +178,8 @@ class WallServiceTest {
             false,
             false,
             Donut(false, 3, "Holder", false, "all"),
-            1
+            1,
+            null
         ))
 
 
@@ -190,7 +198,8 @@ class WallServiceTest {
             false,
             false,
             Donut(false, 3, "Holder", false, "all"),
-            1
+            1,
+            null
         )
         // act
         val result = service.update(update)
