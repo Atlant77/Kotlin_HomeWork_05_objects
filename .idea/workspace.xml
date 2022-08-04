@@ -4,15 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b3c7551b-8618-4aef-ac63-d51ce533d490" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/attachment/Attachment.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/main.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/post.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/post.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/wallservice.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/wallservice.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/kotlin/WallServiceTest.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/kotlin/WallServiceTest.kt" afterDir="false" />
-    </list>
+    <list default="true" id="b3c7551b-8618-4aef-ac63-d51ce533d490" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
